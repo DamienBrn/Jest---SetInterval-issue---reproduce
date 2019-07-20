@@ -1,6 +1,7 @@
 # Jest---SetInterval-issue---reproduce
 
 ```
-npm i
-npm t
+* git clone
+* npm i
+* npm t
 ```
